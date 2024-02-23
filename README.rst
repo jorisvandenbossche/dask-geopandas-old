@@ -1,3 +1,5 @@
+See https://github.com/geopandas/dask-geopandas for the active project
+
 Dask Geopandas
 ==============
 
